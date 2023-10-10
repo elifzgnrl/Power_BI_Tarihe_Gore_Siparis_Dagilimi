@@ -7,4 +7,5 @@ SSMS üzerinden oluşturulan view' lardan Power BI ya veri çekilmiştir.
 # 
 
 
-<img width="646" alt="Tarihe_Gore_Siparis_PB" src="https://github.com/elifzgnrl/Power_BI_Tarihe_Gore_Siparis_Dagilimi/assets/90255753/47890cb3-357f-452e-abf4-0e4af5eab0db">
+
+<img width="912" alt="Tarihe_Gore_Siparis_PB" src="https://github.com/elifzgnrl/Power_BI_Tarihe_Gore_Siparis_Dagilimi/assets/90255753/55d053d0-e198-4fe0-a99a-5283678fd238">
